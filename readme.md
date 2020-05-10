@@ -9,6 +9,8 @@ npm i @conjurelabs/get-type
 returns the 'type' of a single value
 
 ```js
+const getType = require('@conjurelabs/get-type')
+
 getType({}) // 'object'
 getType([]) // 'array'
 getType('') // 'string'
