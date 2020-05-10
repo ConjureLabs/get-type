@@ -1,0 +1,17 @@
+{
+  "name": "@conjurelabs/get-type",
+  "version": "1.0.0",
+  "description": "returns the 'type' of a single value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "typeof"
+  ],
+  "license": "MIT",
+  "repository": "ConjureLabs/get-type",
+  "bugs": "https://github.com/ConjureLabs/get-type/issues",
+  "homepage": "https://github.com/ConjureLabs/get-type#readme"
+}
